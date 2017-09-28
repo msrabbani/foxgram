@@ -1,11 +1,14 @@
 <template>
   <div id="app">
-    <login></login>
+    <!-- <login></login> -->
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
 import login from '@/components/Loginfb'
+// import form from '@/components/Form'
+
 export default {
   name: 'app',
   components: {

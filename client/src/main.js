@@ -2,9 +2,12 @@
 // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 import Vue from 'vue'
 import App from './App'
+// import Home from './Home'
 import router from './router'
 import FBSignInButton from 'vue-facebook-signin-button'
+import SocialSharing from 'vue-social-sharing'
 
+Vue.use(SocialSharing)
 Vue.use(FBSignInButton)
 Vue.config.productionTip = false
 
