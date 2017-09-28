@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "first-app-178213",
+  "private_key_id": "777a2bde0974e0267af312ddbf6f4e56fbfa28ca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCQ/GdmNHqoH5A2\n7TQiN1eJNfGQDtoj83aMTnWbjBmqVH5D2ko6juSrCxuwvzhmWIzoYuSvvLYaGI4v\nM1thjD0pgIZ4wCzYS1c5xI0Moi3ZcvIBajyyjGwrYuqRdSIVmJ3kSYXYg7WknrqJ\njZCpWwVit+O1O+cQ380VtFwJrOHGfkV6HQlUbPeQbHQLRIFbJaNshA2rtUKbQTvh\n+VtqkzICWlbcRvAW7DcFt+GMLOgW6e9010A3tETSsSjGW37z9/79XTXVTpxIZ1Pq\n/Nq2B/7MIf0b6YfvIhzLRDL445171GTE/qFfOyTMnIQ8Uc9ZQ9p5qb8shPIZgx3l\nG/05voWFAgMBAAECggEAENDFaUwy4abvgf9W6ZUDmQ1hm/StBjhpinJbH5RLMb8k\n+deqfkouaUwbhQ9Yij5A8X7uyRcZA8PPUdgiBBlQyqx2bDDVwqxSTIfoWAvDR5IW\nUWWx7n9s2Edbr00ni9usjFqepHL6MUKbnfKGUa4V3NI5Hb752LIsRhUqC5E6ilvU\nHizPOKqR9UkGcVZb7kpgEPU39G4/JN/F65QnRLMxUhsFFOePke2AMlTTQdgOCvLh\n+Pp6hSBslBeu+AVVDqSBr3dQenAfK6Lu02B/WO8PECS6dyuymXliiAo5RenAZl6T\ngltAguQEl5XLa4TlxrQHAmb16xpe/qTYyf3YpFEerQKBgQDEpLp4kNHGDH++zhyK\nZzr5ejdnQD9hdvcsMd0u8tvpkxXO4G5N/hpK8PKvKpHP5swXY4/HMgvY0RCm/jQO\nsAdrF9e0MEz4IVDBT0XxAiQv++ef/Bro8ZoX93AsoxYEFGQmqNBlhHfOkyXh2imv\n0aDhqSvXC3141pj3vYjvzxjRkwKBgQC8v+72j+GQKQ6h9juxJXukrmQx94cjSObq\nOWLoCQdWzkzx4CPKXIwza6nUOUfXhczqBgPTs4xpBm8ynFOXELo9vp8SPXz9YOmy\nFqKDIhwwG4JiYbaDmlhLX03vXGdNntetY+0z3hz540wp97fKiRdpoJEGrKfjHc4L\np29l2qybhwKBgQCwrBOA+RQPrPEk+8d2rdK1jBG06WtIZPsjsNU5NidQjr6cNNXF\nqtPymtJfgI6qzIB3TxNBc3xjW0przp30yECR/kTldjPhBwWn+FIte7AJkHiFK5r9\nyPuaJsyYvhmspqlodmltm/uMFHaHmVu0xFGYDUb/GSqs45lhk98xHc79kwKBgAI+\nWc3OegTnqAfe0GjTpDuZ4xEA+zc9J5mDIxzU9qRegWWin2pJXVVDI1qlb6gtK/lg\nJu1+Rd39uJamawvxo/UV7fgeiPzOCRkX0cizQBiGSy92L+AylngW4utEcunmSHQE\nKw6hxkBmJkKdci7TIFceFHs61CgL86YJ0HYqekDDAoGBAKHxC7SazgTtdJIRgRwv\nSHTS9E580hO5XTaJnzVORHSLU+Uedz5XJd6+oXRX3+XsF+LAUDMtKwx9jqKbIJF5\nGZz4oD4LGpTWxda9cq2GBGMz9hILNnzAGV549Ev8UqsS046lBEojtxb/NNrQN0W5\nlXKdgvOvdMPudtY9Gq5Zye2H\n-----END PRIVATE KEY-----\n",
+  "client_email": "foxgram@first-app-178213.iam.gserviceaccount.com",
+  "client_id": "106405189903041900154",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/foxgram%40first-app-178213.iam.gserviceaccount.com"
+}
