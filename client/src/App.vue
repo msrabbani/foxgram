@@ -1,27 +1,17 @@
 <template>
   <div id="app">
-    <navbar></navbar>
-    <Form></Form>
-    <galery></galery>
-    <!-- <img src="./assets/logo.png"> -->
-    <!-- <router-view></router-view> -->
+    <login></login>
   </div>
 </template>
 
 <script>
-import Navbar from './components/Navbar.vue'
-import Galery from './components/Galery.vue'
-import Form from './components/Form.vue'
-
+import login from '@/components/Loginfb'
 export default {
   name: 'app',
   components: {
-    Navbar,
-    Galery,
-    Form
+    login
   }
 }
-
 </script>
 
 <style>
@@ -31,6 +21,6 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 10px;
+  margin-top: 60px;
 }
 </style>

@@ -2,8 +2,9 @@
   <div>
     <div class="ui container">
       <div class="ui card" v-for="gambarZ in gallery">
+        <!-- {{gambarZ}} -->
         <div class="image">
-          <img src="../assets/logo.png">
+          <img :src=gambarZ.gambar>
         </div>
         <div class="content">
           <a class="header">{{gambarZ.nama}}</a>
